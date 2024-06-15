@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋,
+Thank you for visiting my profile! Feel free to contact me if you have any questions or just want to say hello. I am very open to new discussions and collaborations!
+
+[![Static Badge](https://img.shields.io/badge/CONTACT%20ME-red)](https://instagram.com/dhitznswaa)  [![Static Badge](https://img.shields.io/badge/SUPPORT%20ME-blue)](https://sociabuzz.com/dhitznswa/support)
 
 <!--
 **dhitznswa/dhitznswa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
