@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋! 
-I'm Adhitya Nasuwa, a passionate Fullstack Developer and Freelancer based in Indonesian. Vocational High School graduate majoring in Computer Network Engineering.I love problem-solving, exploring new technologies, and contributing to projects that make a difference.
+I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Man without a story from Indonesia. Vocational High School graduate majoring in Computer Network Engineering.I love problem-solving, exploring new technologies, and contributing to projects that make a difference.
 
 📫 Let's connect and build something amazing with me!
 
