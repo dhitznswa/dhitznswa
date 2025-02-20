@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhitznswa&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
+
+<hr/>
+
 # 💫 About Me:
 Hi there 👋! 
 I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Man without a story from Indonesia. Vocational High School graduate majoring in Computer Network Engineering.I love problem-solving, exploring new technologies, and contributing to projects that make a difference.
@@ -15,7 +21,6 @@ I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Man without a story from In
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 ## 💰 Support Me
