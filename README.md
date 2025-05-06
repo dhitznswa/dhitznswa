@@ -1,8 +1,8 @@
-<div align="center">
 <img src="/img/github_header_fx.png" alt="Adhitya Nasuwa"/>
-</div>
 
+<p align="justify">
 I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Designer based in Indonesia. Vocational High School graduate majoring in Computer Network Engineering.I love problem-solving, exploring new technologies, and contributing to projects that make a difference.
+</p>
 
 📫 Let's connect and build something amazing with me!
 
@@ -13,7 +13,3 @@ I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Designer based in Indonesia
 <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,nextjs,nodejs,expressjs,tailwindcss,alpinejs,supabase,postgresql,mongodb,vscode,git,photoshop&perline=8" />
 
 <hr/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=dhitznswa&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-</div>
