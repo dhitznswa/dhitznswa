@@ -1,4 +1,6 @@
-![Adhitya Nasuwa](/img/github_header_fx.png)
+<div align="center">
+<img src="/img/github_header_fx.png" alt="Adhitya Nasuwa"/>
+</div>
 
 I'm Adhitya Nasuwa. A Freelancer, Web Developer, and Designer based in Indonesia. Vocational High School graduate majoring in Computer Network Engineering.I love problem-solving, exploring new technologies, and contributing to projects that make a difference.
 
